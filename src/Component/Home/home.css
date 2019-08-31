@@ -1,0 +1,9 @@
+.homepage-container{
+    background-image: url(https://s.zillowstatic.com/homepage/static/_Desktop_overlay.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 600px;
+    margin: 0 auto;
+}

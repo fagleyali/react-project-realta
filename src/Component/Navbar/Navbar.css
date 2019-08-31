@@ -1,0 +1,23 @@
+nav {
+    background-color: #fff;
+    color: black;
+    padding: 30px;
+    margin: 0 auto;
+    height: 100%;
+    max-width: 1280px;
+    
+    z-index: 1;
+}
+
+.navBody{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-decoration: none;
+    
+}
+
+.nav-span{
+    justify-content: center;
+}
+
