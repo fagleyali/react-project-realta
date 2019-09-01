@@ -6,6 +6,8 @@ const logger = require('morgan');
 
 const favicon =  require ('serve-favicon');
 
+require('./config/database');
+
 
 const app = express();
 
